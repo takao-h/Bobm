@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73c96b72-d1a8-4e90-b60a-1f757ea751d9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Board.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/reducers/game.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/reducers/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/styles/Bord.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/styles/Cell.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/styles/Game.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/styles/index.css" />
-    </list>
+    <list default="true" id="73c96b72-d1a8-4e90-b60a-1f757ea751d9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -61,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -195,12 +186,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522281084508</updated>
       <workItem from="1522281085843" duration="12000" />
-      <workItem from="1522281137954" duration="4409000" />
+      <workItem from="1522281137954" duration="4564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4421000" />
+    <option name="totallyTimeSpent" value="4576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -318,7 +309,7 @@
     <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
